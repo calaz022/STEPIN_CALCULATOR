@@ -10,4 +10,9 @@
 | 05_Image and Videos| Screenshots of output terminal |
 
 # CODE INSPECTOR STATS!
+![code grade](https://www.code-inspector.com/project/28191/score/svg) <br />
+![code grade](https://www.code-inspector.com/project/28191/status/svg)<br />
+# CODACY
+
+
 
