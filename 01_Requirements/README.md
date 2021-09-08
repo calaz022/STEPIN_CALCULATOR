@@ -25,6 +25,24 @@ Returns the output based on the choice entered by user.
 ## How
 + Implemented using simple switch cases and function.
 + This project is developed using multifile approach. 
+# Detail Requirements
+
+## High Level Requirements
+| ID        | Description          | Status |
+| --------- |:-------------:| -----:|
+| HR 01     | User shall be able to choose the operations to perform | Implemented |
+| HR 02     | User shall be able to perform airthematic operations      | Implemented |
+| HR 03     | User shall be able to perform scientific Operations     | Implemented |
+
+## Low Level Requirements
+| ID        | Description          | HLR ID |Status |
+| --------- |:-------------:| -----:|-----:|
+| LR 01     | Performing Addition      | HR 02 | Implemented |
+| LR 02     | Performing Subtraction   | HR 02  | Implemented |
+| LR 03     | Performing Multiplication | HR 02 | Implemented |
+| LR 04     | Performing Division      | HR 02 | Implemented |
+| LR 05     | Performing Square   | HR 03  | Implemented |
+| LR 06     | Performing SquareRoot | HR 03 | Implemented |
 
 
 
