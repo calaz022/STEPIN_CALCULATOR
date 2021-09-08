@@ -12,7 +12,10 @@
 # CODE INSPECTOR STATS!
 ![code grade](https://www.code-inspector.com/project/28191/score/svg) <br />
 ![code grade](https://www.code-inspector.com/project/28191/status/svg)<br />
-# CODACY
+
+# SDLC ACTIVITY BASED LEARNING
+![new calciiiii](https://user-images.githubusercontent.com/89761761/132537389-1ec40439-407e-48fc-8a6e-c8ab270bd336.jpg)<br />
+
 
 
 
